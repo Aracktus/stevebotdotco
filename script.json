@@ -5,7 +5,7 @@
     "I LOVE YOU": "%[Tell her](postback:twitter)\n",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, SteveBot is back.",
-	"LEARN ABOUT STEVE": "%[Recent Work](postback:recent_work) %[Education](passback:steve_education) %[What's He Working On Lately?](passback:steve_lately)",
+	"LEARN ABOUT STEVE": "%[Recent Work](postback:recent_work)",
 	"RECENT WORK": "Steve's latest 'work' was a startup named R17. R17 was an website-speed analytics dashboard and diagnostics tool. Customers included the 2nd largest US ecommerce site.",
 	"STEVE EDUCATION": "Steve did a Business Bachelors waaaay back in 90-94 at UNB. He stayed in Aitken House - renown for being No. 1 on Dave Letterman's top ten list.... for most beer consumption (not the year he attended).",
 	"STEVE LATELY": "Who really knows?"
