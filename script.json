@@ -1,13 +1,8 @@
 {
     "BOT": "Want to learn a little bit about Steve? %[Learn about Steve](postback:learn_about_steve)",
     "BOT2": "Hi there!\nI’m the personal bot of Steve, a Sr. Product Manager, CTO & Entrepreneur from Quispamsis; the Paris of New Brunswick Canada.\n![steve](http://stevenmallett.com/wp-content/uploads/2016/04/steve-formal-e1461431579625.jpg)\nWant to learn a little bit about Steve? %[Learn about Steve](postback:learn_about_steve) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Leddddt's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "%[Tell her](postback:twitter)\n",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, SteveBot is back.",
 	"LEARN ABOUT STEVE": "%[Recent Work](postback:recent_work)",
-	"RECENT WORK": "Steve's latest work was a startup named R17. R17 was an website-speed analytics dashboard and diagnostics tool. Customers included the 2nd largest US ecommerce site.",
-	"STEVE EDUCATION": "Steve did a Business Bachelors waaaay back in 90-94 at UNB. He stayed in Aitken House - renown for being No. 1 on Dave Letterman's top ten list.... for most beer consumption (not the year he attended).",
-	"STEVE LATELY": "Who really knows?"
+	"RECENT WORK": "Steve's latest work was a startup named R17. R17 was an website-speed analytics dashboard and diagnostics tool. Customers included the 2nd largest US ecommerce site."
 }
