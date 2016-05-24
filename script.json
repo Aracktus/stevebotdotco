@@ -1,5 +1,5 @@
 {
-	"V": "8",
+	"V": "9",
 	"HELLO": "Hi!",
 	"HI": "Hi!",
 	"BOT": "Want to learn a little bit about Steve? %[Learn about Steve](postback:about_steve)",
@@ -9,5 +9,5 @@
 	"LEARN ABOUT STEVE": "Pick one... %[Recent Work](postback:recent_work) %[Education](postback:steve_education) %[What is up lately?](postback:up_lately)",
 	"RECENT WORK": "iwork worky work",
 	"EDUCATION": "educatioadf adfadsfn",
-	"What IS UP LATELY": "lateladf ad fasd fadsy"
+	"WHATIS UP LATELY": "lateladf ad fasd fadsy"
 }
