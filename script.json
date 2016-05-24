@@ -1,8 +1,8 @@
 {
-    "BOT": "Want to learn a little bit about Steve? %[Learn about Steve](postback:learn_about_steve)",
+    "BOT": "Want to learn a little bit about Steve? %[Learn about Steve](postback:about_steve)",
     "BOT2": "Hi there!\nI’m the personal bot of Steve, a Sr. Product Manager, CTO & Entrepreneur from Quispamsis; the Paris of New Brunswick Canada.\n![steve](http://stevenmallett.com/wp-content/uploads/2016/04/steve-formal-e1461431579625.jpg)\nWant to learn a little bit about Steve? %[Learn about Steve](postback:learn_about_steve) %[One random fact!](postback:random_fact)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, SteveBot is back.",
-	"LEARN ABOUT STEVE": "%[Recent Work](postback:recent_work)",
+	"ABOUT STEVE": "%[Recent Work](postback:recent_work)",
 	"RECENT WORK": "Steve's latest work was a startup named R17.\nR17 was an website-speed analytics dashboard and diagnostics tool.\nCustomers included the 2nd largest US ecommerce site."
 }
