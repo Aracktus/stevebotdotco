@@ -4,5 +4,5 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, SteveBot is back.",
 	"LEARN ABOUT STEVE": "%[Recent Work](postback:recent_work)",
-	"RECENT WORK": "Steve's latest work was a startup named R17. R17 was an website-speed analytics dashboard and diagnostics tool. Customers included the 2nd largest US ecommerce site."
+	"RECENT WORK": "Steve's latest work was a startup named R17.\nR17 was an website-speed analytics dashboard and diagnostics tool.\nCustomers included the 2nd largest US ecommerce site."
 }
