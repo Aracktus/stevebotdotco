@@ -1,9 +1,11 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Steve, a Sr. Product Manager, CTO & Entrepreneur from Quispamsis; the Paris of New Brunswick Canada.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Steve, a Sr. Product Manager, CTO & Entrepreneur from Quispamsis; the Paris of New Brunswick Canada.\n![steve](http://stevenmallett.com/wp-content/uploads/2016/04/steve-formal-e1461431579625.jpg)\nWant to learn a little bit about Steve?\n %[Learn about Steve](postback:learn_about_steve) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "%[Tell her](postback:twitter)\n",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back.",
-    "TELL HER": "oh fuck"
+    "DISCONNECT": "Roger that, SteveBot is back.",
+	"learn about steve": "%[Recent Work](postback:recent_work) %[Education] (passback:education) %[What's He Working On Lately?](passback: Lately)",
+	"recent work": "Steve's latest 'work' was a startup named R17. R17 was an website-speed analytics dashboard and diagnostics tool. Customers included the 2nd largest US ecommerce site.",
+	"education": "Steve did a Business Bachelors waaaay back in 90-94 at UNB. He stayed in Aitken House - renown for being No. 1 on Dave Letterman's top ten list.... for most beer consumption (not the year he attended)."
 }
