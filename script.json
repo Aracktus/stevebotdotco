@@ -9,6 +9,6 @@
 "EDUCATION": "I have a 'bach' from the Univerisy of New Brunswick (UNB) in Business (1994). I did an unofficial minor in English. All work and no play....\nChoose another? %[Recent Work](postback:recent_work) %[Sup Lately?](postback:up_lately)",
 "SUP LATELY?": "I'm knee deep in success literature/advice/coaching culture.\nIf you're cynical of the 'packaging' ignore it, see through it.\nMore? %[More](postback:steve_more)",
 "MORE": "Nice. %[email Steve](link:mailto:steve.mallett+stevebot@gmail.com) %[One last random tidbit](postback:random)",
-"ONE LAST RANDOM TIDBIT": "Steve had a little falldown once. In Africa.\nJumping off a motorcycle.\nAt 100kms/hr. On purpose. %[email Steve](postback:email)",
+"ONE LAST RANDOM TIDBIT": "Steve had a little falldown once. In Africa.\nJumping off a motorcycle.\nAt 100kms/hr. On purpose. %[email Steve](link:mailto:steve.mallett+stevebot@gmail.com)",
 "FUCK": "Not niiiiiice!"
 }
