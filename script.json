@@ -7,5 +7,8 @@
 	"LEARN ABOUT STEVE": "Pick one... %[Recent Work](postback:recent_work) %[Education](postback:steve_education) %[Sup Lately?](postback:up_lately)",
 	"RECENT WORK": "iwork worky work",
 	"EDUCATION": "educatioadf adfadsfn",
-	"SUP LATELY?": "lateladf ad fasd fadsy"
+	"SUP LATELY?": "lateladf ad fasd fadsy,
+
+
+	"FUCK": "Not niiiiiice!"
 }
