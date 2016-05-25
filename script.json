@@ -7,7 +7,7 @@
 "LEARN ABOUT STEVE": "Pick one... %[Recent Work](postback:recent_work) %[Education](postback:steve_education) %[Sup Lately?](postback:up_lately)",
 "RECENT WORK": "I'm doing some random consulting ATM, but my last 'work' work was a startup R17.com. We built a website speed analytics tool for\neCommerce sites to help them stop losing sales due to slow checkouts.\nWe deployed the tool to the biggest eCommerce site in the US behind Amazon (from whom we got the idea).\nI was the Founder, Biz Dev, Sales & Janitor.\nChoose another? %[Education](postback:steve_education) %[Sup Lately?](postback:up_lately)",
 "EDUCATION": "I have a 'bach' from the Univerisy of New Brunswick (UNB) in Business (1994). I did an unofficial minor in English. All work and no play....\nChoose another? %[Recent Work](postback:recent_work) %[Sup Lately?](postback:up_lately)",
-"SUP LATELY?": "I'm knee deep in success literature/advice/coaching culture.\nIf you're cynical of the 'packaging' ignore it, see through it.\n %[More](postback:steve_more)",
+"SUP LATELY?": "I'm knee deep in success literature/advice/coaching culture.\nIf you're cynical of the 'packaging' ignore it, see through it.\nMore? %[More](postback:steve_more)",
 "MORE": "Nice. %[email Steve](postback:email) %[One last random tidbit](postback:random)",
 "ONE LAST RANDOM TIDBIT": "Steve had a little falldown once. In Africa.\nJumping off a motorcycle.\nAt 100kms/hr. On purpose. %[email Steve](postback:email)",
 "FUCK": "Not niiiiiice!"
