@@ -6,8 +6,8 @@
 	"BOT2": "1 Hi there!\nI’m the personal bot of Steve Mallett, a Sr. Product Manager, CTO & Entrepreneur from Quispamsis; the Paris of New Brunswick Canada.\n![steve](http://stevenmallett.com/wp-content/uploads/2016/04/steve-formal-e1461431579625.jpg)\nWant to learn a little bit about Steve? %[Learn about Steve](postback:about_steve)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, SteveBot is back.",
-	"LEARN ABOUT STEVE": "Pick one... %[Recent Work](postback:recent_work) %[Education](postback:steve_education) %[What is up lately?](postback:up_lately)",
+	"LEARN ABOUT STEVE": "Pick one... %[Recent Work](postback:recent_work) %[Education](postback:steve_education) %[Sup lately](postback:up_lately)",
 	"RECENT WORK": "iwork worky work",
 	"EDUCATION": "educatioadf adfadsfn",
-	"WHAT IS UP LATELY": "lateladf ad fasd fadsy"
+	"SUP LATELY": "lateladf ad fasd fadsy"
 }
